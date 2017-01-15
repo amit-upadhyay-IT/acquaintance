@@ -1,0 +1,98 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="5dp"
+
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/nameDetailTxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:padding="5dp"
+                    android:minLines="1"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"
+                    android:text="Name" />
+
+                <TextView
+                    android:text="Phone Number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="41dp"
+                    android:textSize="22sp"
+                    android:textStyle="normal|bold"
+                    android:textColor="@android:color/black"
+                    android:padding="5dp" />
+
+                <TextView
+                    android:id="@+id/telDetailTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:padding="5dp"
+                    android:minLines="1"
+                    android:text="Phone Number" />
+
+                <TextView
+                    android:text="Address"
+                    android:layout_width="match_parent"
+                    android:layout_height="43dp"
+                    android:padding="5dp"
+                    android:textColor="@android:color/black"
+                    android:textSize="22sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:id="@+id/addressDetailTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:padding="5dp"
+                    android:textColor="#0f0f0f"
+                    android:minLines="4"
+                    android:text="Address...." />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:text="Date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dateAppointment"
+            android:textAppearance="@android:style/TextAppearance.Material.Large"
+            android:textColor="@android:color/holo_green_dark" />
+
+        <TextView
+            android:text="Time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/timeAppointment"
+            android:textAppearance="@android:style/TextAppearance.Material.Large"
+            android:textColor="@color/cast_intro_overlay_button_background_color" />
+
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
