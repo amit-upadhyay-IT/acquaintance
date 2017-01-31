@@ -18,8 +18,8 @@ https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library
 http://www.truiton.com/2015/04/android-bluetooth-low-energy-ble-example/
 
 
-Firebase Authrization:
+Firebase security:
 
 https://youtu.be/PUBnlbjZFAI?t=676
-
 http://stackoverflow.com/questions/38395790/firebase-storage-limit-size-of-image-that-users-upload-to-firebase-storage
+https://firebase.google.com/docs/storage/security/#data_validation
