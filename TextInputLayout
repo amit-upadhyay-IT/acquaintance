@@ -1,3 +1,5 @@
+source - http://stackoverflow.com/questions/42073660/textinputlayout-change-width-when-error-occurred
+
 <LinearLayout android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginLeft="16dp"
