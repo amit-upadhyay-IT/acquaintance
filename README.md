@@ -27,3 +27,6 @@ https://youtu.be/PUBnlbjZFAI?t=676
 http://stackoverflow.com/questions/38395790/firebase-storage-limit-size-of-image-that-users-upload-to-firebase-storage
 
 https://firebase.google.com/docs/storage/security/#data_validation
+
+
+Must Have Libraries - https://github.com/codepath/android_guides/wiki/Must-Have-libraries
