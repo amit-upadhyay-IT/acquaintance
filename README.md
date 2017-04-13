@@ -30,3 +30,5 @@ https://firebase.google.com/docs/storage/security/#data_validation
 
 
 Must Have Libraries - https://github.com/codepath/android_guides/wiki/Must-Have-libraries
+
+Firebase cloud functions - https://youtu.be/EvV9Vk9iOCQ , https://youtu.be/j_TmBxFNaBo , https://youtu.be/QVAkTFiTr34
