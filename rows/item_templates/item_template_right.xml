@@ -28,13 +28,13 @@
                 android:id="@+id/title"
                 style="@style/CardView.Title"
                 android:text="Amit Kumar Upadhyay"
-                class="org.buildmlearn.toolkit.views.TextViewPlus" />
+                class="TextViewPlus" />
 
             <view
                 android:id="@+id/description"
                 style="@style/CardView.Body"
                 android:text=""
-                class="org.buildmlearn.toolkit.views.TextViewPlus" />
+                class="TextViewPlus" />
         </LinearLayout>
 
         <ImageView
