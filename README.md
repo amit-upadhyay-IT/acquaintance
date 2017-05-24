@@ -34,3 +34,6 @@ Must Have Libraries - https://github.com/codepath/android_guides/wiki/Must-Have-
 Firebase cloud functions - https://youtu.be/EvV9Vk9iOCQ , https://youtu.be/j_TmBxFNaBo , https://youtu.be/QVAkTFiTr34
 
 Trigiring with realtime db for cloud functions: https://youtu.be/7E13ZBCyKT0
+
+
+Medical - https://youtu.be/Nj2YSLPn6OY, https://youtu.be/2_Jv11VpOF4
