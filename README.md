@@ -37,3 +37,11 @@ Trigiring with realtime db for cloud functions: https://youtu.be/7E13ZBCyKT0
 
 
 Medical - https://youtu.be/Nj2YSLPn6OY, https://youtu.be/2_Jv11VpOF4
+
+
+-----------------------
+
+Blockchain applications and uses in project:
+1) https://www.youtube.com/watch?v=WnEYakUxsHU
+2) https://www.youtube.com/watch?v=k53LUZxUF50
+3) https://www.youtube.com/watch?v=40ikEV6xGg4
