@@ -1,4 +1,4 @@
-# layouts
+# acquaintance
 
 https://github.com/JorgeCastilloPrz/PagedHeadListView
 
@@ -45,3 +45,5 @@ Blockchain applications and uses in project:
 1) https://www.youtube.com/watch?v=WnEYakUxsHU
 2) https://www.youtube.com/watch?v=k53LUZxUF50
 3) https://www.youtube.com/watch?v=40ikEV6xGg4
+
+Ethereum as Merkle Trees (HASHES OF HASHES) : https://youtu.be/-SMliFtoPn8
